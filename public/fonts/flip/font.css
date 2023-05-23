@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'flipside';
+	src: url('./flipside.eot');
+	src: local('flipside'), url('./flipside.woff') format('woff'), url('./flipside.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_794">Text with this font applied</p> */
+.fontsforweb_fontid_794 {
+	font-family: 'flipside' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
